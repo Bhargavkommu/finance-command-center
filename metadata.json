@@ -1,0 +1,6 @@
+{
+  "name": "DhanVeda - Personal Finance Command Centre",
+  "description": "Comprehensive personal finance command centre to track loans & EMI, simulate prepayment vs investments, balance-transfer savings, net-worth tracking, and AI financial debt-freedom strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
